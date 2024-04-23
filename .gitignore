@@ -1,4 +1,4 @@
 *.pub
 keys
 newkey
-__pycache__
+__pycache__/
