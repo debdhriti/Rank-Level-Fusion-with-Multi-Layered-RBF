@@ -48,5 +48,3 @@ def evaluateSVM(data, X_train, X_test, Y_train, Y_test):
 
     return decision_scores, y_test
 
-
-    # KIMATU KA SVM KHATAM
